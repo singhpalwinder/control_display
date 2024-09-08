@@ -1,0 +1,1 @@
+This script gets data from raspberry pi V2 camera and compares the current pixel with the previous one calculates the MSE (Mean Squared Error) if this value is above the set threshold then there is motion and the display should be set to on, otherwise off
